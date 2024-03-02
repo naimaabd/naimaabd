@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://your-website-url)
+
 <h1 align="center">Hi 👋, I'm Naima Abdulle</h1>
 <h3 align="center">Passionate and Aspiring Cloud Enthusiast with AWS Cloud and Terraform Skills</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+<img align="right" alt="Coding" width="400" src="https://us.123rf.com/450wm/pixologystudio/pixologystudio2305/pixologystudio230500072/205045156-islamic-woman-in-laptop-flat-character-suitable-for-flat-design-illustration-and-background-preview.jpg?ver=6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimaabd&label=Profile%20views&color=0e75b6&style=flat" alt="naimaabd" /> </p>
 
