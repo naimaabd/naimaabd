@@ -2,7 +2,6 @@
 
 <h1 align="center">👋 Hi, I'm Naima Abdulle</h1>
 <h3 align="center">Passionate Cloud Enthusiast | AWS Cloud & Terraform | Python Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://us.123rf.com/450wm/pixologystudio/pixologystudio2305/pixologystudio230500072/205045156-islamic-woman-in-laptop-flat-character-suitable-for-flat-design-illustration-and-background-preview.jpg?ver=6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimaabd&label=Profile%20views&color=0e75b6&style=flat" alt="naimaabd" /> </p>
 
