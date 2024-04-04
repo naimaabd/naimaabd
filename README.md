@@ -18,6 +18,9 @@
   <a href="https://linkedin.com/in/naima abdulle" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naima abdulle" height="30" width="40" />
   </a>
+  <a href="https://medium.com/@naima.abdulle_25368" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="naima.abdulle_25368" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
